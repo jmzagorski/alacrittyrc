@@ -1,0 +1,8 @@
+[terminal.shell]
+program = "cmd"
+
+[window]
+title = "cmd"
+
+[general]
+import = ["alacritty.toml"]

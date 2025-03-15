@@ -1,0 +1,9 @@
+[terminal.shell]
+program = "wsl"
+args = ["--cd", "~"]
+
+[window]
+title = "wsl"
+
+[general]
+import = ["alacritty.toml"]
